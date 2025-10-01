@@ -12,7 +12,7 @@ float btnX = 50, btnY = 30, btnW = 260, btnH = 28;
 void setup() {
   size(500, 200);                  // ウィンドウサイズを500x200に設定
   frameRate(30);                   // フレームレートを30fpsに設定
-  file = new SoundFile(this, "Windows XP Startup.wav");  // 音声ファイルを読み込む
+  file = new SoundFile(this, "Morning.mp3");  // 音声ファイルを読み込む
 }
 
 void draw() {
@@ -100,3 +100,4 @@ String formatTime(float s) {
   int sec = total % 60; // 秒
   return str(m) + ":" + nf(sec, 2); // "分:秒"（秒は2桁表示）
 }
+
