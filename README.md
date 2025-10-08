@@ -46,7 +46,8 @@
   1. `musicフォルダ`を開く
   2. `music.pde`を開き「実行」ボタンを押す
   3. ※processing.sound.*を入れないとうまく実行できません
-  4. <img width="1342" height="25" alt="スクリーンショット 2025-10-08 135132" src="https://github.com/user-attachments/assets/b028efa1-74a1-4098-95c8-057377ab759d" />
+  4.<img width="714" height="403" alt="スクリーンショット 2025-10-08 135246" src="https://github.com/user-attachments/assets/5a6a4917-4c72-47e9-8d7f-3bf326815d16" />
+
 
 - 注意点や素材の配置など：<br>
   素材はすべて同じフォルダ内に配置してください<br>
