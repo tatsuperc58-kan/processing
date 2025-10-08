@@ -47,7 +47,10 @@
   2. `music.pde`を開き「実行」ボタンを押す
 - 注意点や素材の配置など：<br>
   素材はすべて同じフォルダ内に配置してください<br>
-  音楽ファイルは .wav .mp3 が対応しております。
+  音楽ファイルは .wav .mp3 が対応しております。<br>
+  下部の線のところを変更しますと曲が変わります
+  <img width="487" height="113" alt="スクリーンショット 2025-10-08 131940" src="https://github.com/user-attachments/assets/309baa1d-f3d0-4913-bbb2-54ef4eda34dd" />
+
 
 ---
 
